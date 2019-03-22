@@ -24,6 +24,12 @@ body{
     text-shadow:0 0 10px;   
     letter-spacing: 1px;   
     text-align: center;   
+} 
+#login p{   
+    color: #fff;   
+    text-shadow:0 0 5px;   
+    letter-spacing: 1px;   
+    text-align: center;   
 }   
 h1{   
     font-size: 2em;   
